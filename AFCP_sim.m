@@ -19,3 +19,12 @@
 % Current conversion to "psi"
 PressureUnit = 1/6894.76;   
 
+%% Constants in the system
+
+%  Cross-sectional area of the pipes- in^2
+P_area = 1;  % Pressurant section
+L_area = 1;  % LOX section
+R_area = 1;  % RP-1 section
+
+
+Pressurant_tank_initial_pressure = 3500; % psi
